@@ -27,7 +27,7 @@ var last_position_of_x, last_position_of_y;
         //Addictonal Activity ends
 
         last_position_of_x = e.touches[0].clientX - canvas.offsetLeft
-        last_position_of_y = e.touches[0].clientY - cavas.offsetTop
+        last_position_of_y = e.touches[0].clientY - canvas.offsetTop
     }
 
     
